@@ -1,0 +1,2 @@
+# Impossible-to-solve-please-help-Sia-Daemon-v1.3.1-Loading...-0-6-Loading-siad...-1-6-Loading-ga
+Impossible to solve please help !Sia Daemon v1.3.1 Loading... (0/6) Loading siad... (1/6) Loading gateway... (2/6) Loading consensus... (3/6) Loading transaction pool... (4/6) Loading wallet... (5/6) Loading host... (6/6) Loading renter... Finished loading in 1.4423307 seconds panic: runtime error: invalid memory address or nil pointer dereference 
